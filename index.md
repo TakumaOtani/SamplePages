@@ -1,2 +1,2 @@
 こんにちは
-![猫の画像](SamplePages/cat.jpeg)
+このホームページのソースコードは[こちら](https://github.com/TakumaOtani/SamplePages)
